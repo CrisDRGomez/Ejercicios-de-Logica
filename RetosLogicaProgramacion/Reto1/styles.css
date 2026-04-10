@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 500px;
+    margin: 40px auto;
+    background-color: #f0f0f0;
+    }
+h1 {
+    color: #333;
+    }
+#resultado {
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 8px;
+    margin-top: 20px;
+    }
+p {
+    font-size: 18px;
+    }
